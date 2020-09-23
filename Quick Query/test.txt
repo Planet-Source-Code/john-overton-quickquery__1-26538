@@ -1,0 +1,43 @@
+SELECT	
+DROP
+DELETE
+ALTER TABLE
+UPDATE
+INSERT INTO
+FROM
+WHERE
+ORDER BY
+GROUP BY
+HAVING
+ON
+COUNT
+AS
+MAX
+MIN
+(
+)
+*
+&
+"
+'
+#
+<
+>
+=
++
+-
+_
+/
+[
+]
+,
+;
+Inner Join
+Outer Join
+Left Join
+Right Join
+Union
+
+adf
+jj
+johno
