@@ -1,0 +1,3 @@
+
+SELECT	 [Account].[Account ID], [Account].[Name]
+ FROM [Account]
